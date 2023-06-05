@@ -59,10 +59,27 @@ section {
   background-color: var(--color-primary);
 }
 
-.active {
-  display: block;
-  animation: appear 1s ease-in-out;
+.sec1 {
+  display: none;
   transform: translateY(0) scaleY(1);
 }
 
-@keyf;/*# sourceMappingURL=styles.css.map */
+.sec2 {
+  display: none;
+  transform: translateY(0) scaleY(1);
+}
+
+.sec3 {
+  display: none;
+  transform: translateY(0) scaleY(1);
+}
+
+.sec4 {
+  display: none;
+  transform: translateY(0) scaleY(1);
+}
+
+.sec5 {
+  display: none;
+  transform: translateY(0) scaleY(1);
+}/*# sourceMappingURL=styles.css.map */
