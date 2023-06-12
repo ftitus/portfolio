@@ -272,7 +272,7 @@ section {
   }
 }
 
-about-stats {
+.about-stats {
   padding-bottom: 4rem;
   .progress-bars {
     display: grid;
@@ -629,7 +629,7 @@ about-stats {
   }
 }
 
-/*Independet components*/
+/*Independed components*/
 .btn-con {
   display: flex;
   align-self: flex-start;
@@ -699,6 +699,8 @@ about-stats {
     }
   }
 }
+
+@import "./media";
 
 /*
 As a web developer with expertise in back-end coding and proficiency in full-stack development, I bring a versatile skill set to the table. Although my background is in healthcare, I have successfully transitioned into the field of web development through self-learning and hands-on experience. I thrive on challenges and approach each project with enthusiasm and readiness to tackle complex problems. With a strong foundation in coding and a passion for continuous learning, I am well-equipped to take on diverse and demanding web development endeavors.
