@@ -169,7 +169,7 @@ section {
   top: 0;
   z-index: -1;
   -webkit-clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
-          clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
+  clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
 }
 .header-content .left-header .image {
   border-radius: var(--br-sm-2);
@@ -183,7 +183,7 @@ section {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   transition: all 0.4s ease-in-out;
   filter: grayscale(100%);
 }
@@ -417,7 +417,7 @@ about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 100%;
   height: 300px;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   border-radius: 15px;
 }
 .portfolios .portfolio-item .hover-items {
@@ -502,7 +502,7 @@ about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 100%;
   height: 300px;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   filter: grayscale(100%);
@@ -700,4 +700,4 @@ As a web developer with expertise in back-end coding and proficiency in full-sta
 
 My journey as a self-taught web developer has equipped me with a tenacious attitude and a drive for excellence. I am constantly seeking opportunities to expand my knowledge and stay up to date with the latest web development trends and technologies. With a solid understanding of back-end development and the ability to seamlessly transition into full-stack work, I am prepared to contribute to projects that require a versatile skill set and a passion for creating exceptional web experiences
 
-I'm a Web Developer, using JavaScript to bring my creative visions to life on the web. The prospect of harnessing the power of JavaScript sparks excitement, igniting a passion for crafting engaging and impactful digital solutions.*//*# sourceMappingURL=styles.css.map */
+I'm a Web Developer, using JavaScript to bring my creative visions to life on the web. The prospect of harnessing the power of JavaScript sparks excitement, igniting a passion for crafting engaging and impactful digital solutions.*/ /*# sourceMappingURL=styles.css.map */
